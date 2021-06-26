@@ -1,0 +1,6 @@
+framework module Pods_MuslimApp_MuslimAppUITests {
+  umbrella header "Pods-MuslimApp-MuslimAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
